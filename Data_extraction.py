@@ -1,3 +1,7 @@
+pip install pillow
+pip install pytesseract
+sudo apt install tesseract-ocr
+
 from PIL import Image
 import pytesseract
 # Load the image
